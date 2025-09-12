@@ -63,7 +63,15 @@ Analyzing such data helps in:
 
 ---
 
-## 📂 Check here
+## 📂 Repository Contents
 
-[Dataset](Dataset)
-[Jupyter](Jupyter)
+- [Jupyter](Jupyter/) → Contains Python code for Data cleaning, Visualization etc
+- [Dashboard Screenshot](Screenshots/) → Preview images of dashboards
+- [Workshop Certification](Certifications/) → Certificate of completion
+
+
+---
+
+## 👤 Author
+**Saumiyaa T K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | [GitHub](https://github.com/SaumiyaaTK)
