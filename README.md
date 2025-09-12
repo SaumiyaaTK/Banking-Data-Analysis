@@ -63,7 +63,7 @@ Analyzing such data helps in:
 
 ---
 
-## 📂 Repository Contents
+## 📂 Attachments
 
 - [Jupyter](Jupyter/) → Contains Python code for Data cleaning, Visualization etc
 - [Dataset](Dataset/) → Raw data 
