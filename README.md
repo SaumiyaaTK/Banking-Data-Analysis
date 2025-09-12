@@ -66,9 +66,7 @@ Analyzing such data helps in:
 ## 📂 Repository Contents
 
 - [Jupyter](Jupyter/) → Contains Python code for Data cleaning, Visualization etc
-- [Dashboard Screenshot](Screenshots/) → Preview images of dashboards
-- [Workshop Certification](Certifications/) → Certificate of completion
-
+- [Dataset](Dataset/) → Raw data 
 
 ---
 
