@@ -64,7 +64,7 @@ Analyzing such data helps in:
 ---
 
 ## 🔗 Attachments   
-- [Jupyter](Jupyter/) → Python notebooks for cleaning & visualization 📓
+- [Jupyter](./Banking Data Analysis.ipynb) → Python notebooks for cleaning & visualization 📓
 - [Dataset](Dataset/) → Raw data 📂
 
 ---
